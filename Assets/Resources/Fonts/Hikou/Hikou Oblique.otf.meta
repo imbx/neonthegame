@@ -1,0 +1,33 @@
+fileFormatVersion: 2
+guid: dc18097c533c50e42b403b034e11e79b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Hikou
+  fontNames:
+  - Hikou
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1247dfa0a05b1e84c9ce5f288a12667d, type: 3}
+  - {fileID: 12800000, guid: 9cd5ac926eda8bf499ff713b6ca1a945, type: 3}
+  - {fileID: 12800000, guid: 5979b67312642f74b84450e27299482b, type: 3}
+  - {fileID: 12800000, guid: 69f4e5e3fb707b9439e484962feedad9, type: 3}
+  - {fileID: 12800000, guid: 1817a87a08abaa940a76cedb7fb13492, type: 3}
+  - {fileID: 12800000, guid: 770eaa1b98a76da42a1e1309e753700a, type: 3}
+  - {fileID: 12800000, guid: 1c97a63b395bfdd48b8f62de7ae79a23, type: 3}
+  - {fileID: 12800000, guid: 53f8e5aba26b560479b2682ca2966f41, type: 3}
+  - {fileID: 12800000, guid: 48aafc3d68293fb4593edf1814c0bafb, type: 3}
+  - {fileID: 12800000, guid: a75bdaaed737c044d9baf7eb44ba0a8f, type: 3}
+  - {fileID: 12800000, guid: 59dd2c3f6eac62944b6972c3121a4407, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 770eaa1b98a76da42a1e1309e753700a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Hikou
+  fontNames:
+  - Hikou
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1247dfa0a05b1e84c9ce5f288a12667d, type: 3}
+  - {fileID: 12800000, guid: 53f8e5aba26b560479b2682ca2966f41, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

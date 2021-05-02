@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f74cd3715f4d8b54487de7a007d2e621, type: 3}
+  m_Name: AxisSettings
+  m_EditorClassIdentifier: 
+  bulletPrefab: {fileID: 9024278481281587743, guid: eba3e9722bcd37043b3158b39d8b2fd1,
+    type: 3}
+  bulletNumber: 3
+  spawnDirection:
+  - {x: 1, y: 1, z: 0}
+  - {x: -1, y: 1, z: 0}
+  - {x: 1, y: -1, z: 0}
+  - {x: -1, y: -1, z: 0}
+  fireRate: 0.25
+  projectileSettings: {fileID: 11400000, guid: b32cc966d53f6c647a7d4f8fa66c4555, type: 2}
+  fireSound: {fileID: 8300000, guid: 1898f65e7a42e174180843535bbe6729, type: 3}
